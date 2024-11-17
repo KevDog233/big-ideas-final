@@ -1,6 +1,6 @@
 # big-ideas-final
 # Team Name: The Boring Guy(s)
-# Team Members: Kevin Li (kel339@pitt.edu) and Owen Ford (I do not know their email.)
+# Team Members: Kevin Li (kel339@pitt.edu) and Owen Ford (I do not know his email.)
 # Notebooks: kel339-fina is Kevin Li's. Owen Ford did not start one before when he was told he was leaving.
 # Canvas Group Number 2
 # Datasets:
